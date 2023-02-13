@@ -19,7 +19,7 @@ This idea solves the following problems:
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+How it works is that the user would put a question into the program and the AI will give an answer according to their needs. Anyone can use the ChatGPT clone to find the answers they need.
 
 ## Data sources and AI methods
 
